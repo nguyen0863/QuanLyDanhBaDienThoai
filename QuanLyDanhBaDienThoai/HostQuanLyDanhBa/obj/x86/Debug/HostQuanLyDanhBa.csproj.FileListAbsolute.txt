@@ -1,0 +1,12 @@
+D:\Education\WebService\ABC\QuanLyDanhBaDienThoai\HostQuanLyDanhBa\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Education\WebService\ABC\QuanLyDanhBaDienThoai\HostQuanLyDanhBa\obj\x86\Debug\HostQuanLyDanhBa.HostQuanLyDanhBa.resources
+D:\Education\WebService\ABC\QuanLyDanhBaDienThoai\HostQuanLyDanhBa\obj\x86\Debug\HostQuanLyDanhBa.Properties.Resources.resources
+D:\Education\WebService\ABC\QuanLyDanhBaDienThoai\HostQuanLyDanhBa\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Education\WebService\ABC\QuanLyDanhBaDienThoai\HostQuanLyDanhBa\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Education\WebService\ABC\QuanLyDanhBaDienThoai\HostQuanLyDanhBa\bin\Debug\HostQuanLyDanhBa.exe
+D:\Education\WebService\ABC\QuanLyDanhBaDienThoai\HostQuanLyDanhBa\bin\Debug\HostQuanLyDanhBa.pdb
+D:\Education\WebService\ABC\QuanLyDanhBaDienThoai\HostQuanLyDanhBa\bin\Debug\ServiceLibrary.dll
+D:\Education\WebService\ABC\QuanLyDanhBaDienThoai\HostQuanLyDanhBa\bin\Debug\ServiceLibrary.pdb
+D:\Education\WebService\ABC\QuanLyDanhBaDienThoai\HostQuanLyDanhBa\obj\x86\Debug\HostQuanLyDanhBa.exe
+D:\Education\WebService\ABC\QuanLyDanhBaDienThoai\HostQuanLyDanhBa\obj\x86\Debug\HostQuanLyDanhBa.pdb
+D:\Education\WebService\ABC\QuanLyDanhBaDienThoai\HostQuanLyDanhBa\bin\Debug\HostQuanLyDanhBa.exe.config

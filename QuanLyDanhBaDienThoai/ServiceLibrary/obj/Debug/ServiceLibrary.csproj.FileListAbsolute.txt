@@ -1,0 +1,6 @@
+D:\Education\WebService\ABC\QuanLyDanhBaDienThoai\ServiceLibrary\bin\Debug\ServiceLibrary.dll
+D:\Education\WebService\ABC\QuanLyDanhBaDienThoai\ServiceLibrary\bin\Debug\ServiceLibrary.pdb
+D:\Education\WebService\ABC\QuanLyDanhBaDienThoai\ServiceLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Education\WebService\ABC\QuanLyDanhBaDienThoai\ServiceLibrary\obj\Debug\ServiceLibrary.dll
+D:\Education\WebService\ABC\QuanLyDanhBaDienThoai\ServiceLibrary\obj\Debug\ServiceLibrary.pdb
+D:\Education\WebService\ABC\QuanLyDanhBaDienThoai\ServiceLibrary\bin\Debug\ServiceLibrary.dll.config
